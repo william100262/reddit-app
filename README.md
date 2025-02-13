@@ -18,12 +18,12 @@ Cat Reddit is a React-based web application that allows users to browse posts fr
 
 ### Installation and Setup
 1. Clone the repository:
-git clone https://github.com/yourusername/cat-reddit.git/
-cd cat-reddit/
+git clone https://github.com/yourusername/cat-reddit.git
+cd cat-reddit
    
 3. Install dependencies:
-npm install/
+npm install
 
 4. Start the server:
-npm start/
+npm start
 
