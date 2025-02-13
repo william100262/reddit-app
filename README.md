@@ -11,7 +11,7 @@ Cat Reddit is a React-based web application that allows users to browse posts fr
 - Responsive interface
 
 ### Built with
-- React - Frontend\
+- React - Frontend
 - React Router - Navigate between pages
 - Reddit API - Fetching the subreddits and realted posts (https://github.com/reddit-archive/reddit/wiki/JSON)
 - CSS - Styling the app
@@ -19,11 +19,11 @@ Cat Reddit is a React-based web application that allows users to browse posts fr
 ### Installation and Setup
 1. Clone the repository:
    git clone https://github.com/yourusername/cat-reddit.git
-   cd cat-reddit\
+   cd cat-reddit
    
 2. Install dependencies:
-   npm install\
+   npm install
 
 3. Start the server:
-   npm start\
+   npm start
 
